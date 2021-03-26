@@ -25,3 +25,7 @@ yarn serve
 ```
 
 Ultimate Decision Maker is now running, and can be accessed by pointing a web browser at http://localhost:8080/
+
+## License
+
+The Ultimate Decision Maker is available under the [MIT License](https://opensource.org/licenses/MIT).
